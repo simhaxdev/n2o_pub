@@ -1,7 +1,7 @@
 {
 	"id": "notion-obsidian-sync",
 	"name": "N2O Sync",
-	"version": "0.9.97",
+	"version": "0.9.98",
 	"minAppVersion": "1.4.0",
 	"description": "Bidirectional sync between Notion and Obsidian. Keep your Notion workspace and Obsidian vault in perfect harmony.",
 	"author": "simhaxdev",
